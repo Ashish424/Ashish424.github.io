@@ -30,7 +30,7 @@ feedburner-subscribe: https://feedburner.google.com/fb/a/mailverify?uri=webjedab
 #Other
 analytics: UA-71358787-1
 disqus-shortname: webjeda-sample    #Disqus comments
-google-custom-search-cx: '017575011755499056211:vwrwldvgq6s'        #Create Custom Search Engine(CSE) with google and find this ID in the code they provide.
+google-custom-search-cx: '017158055066328803494:b-fbm-oody4'        #Create Custom Search Engine(CSE) with google and find this ID in the code they provide.
 
 
 # Get this from https://getsimpleform.com to make your contact form work as expected.
